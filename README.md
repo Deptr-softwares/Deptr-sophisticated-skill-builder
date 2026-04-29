@@ -22,7 +22,7 @@ This is a WIP, so I can only shows the planned features below:
 - The ability to create and preview custom UIs.
 - The ability to check for Creator Clash eligibility.
 - The ability to view active, inactive, unapplied tags and their values while testing skills.
-- The ability to hide/obfuscate your skill-builder datas
+- The ability to group branches like tab folders for better organization.
 - The ability to create fully custom damage types.
 - The ability to preview a skill's flow when using it (which branches does it go to? what animations or vfx does it cancel?, etc).
 - An autosaves and versions system for character datas.
