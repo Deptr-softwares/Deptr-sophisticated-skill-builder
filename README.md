@@ -3,10 +3,10 @@
 This is an open-source website made for skill building in JJS; specifically, it aims to create a better skill building experience. It will have extra functions that is not present in-game, and tons of QoLs.
 
 This is a WIP, so I can only shows the planned features below:
-- Recreate how JJS data style works for Skill Builder data.
+- ~~Recreate how JJS data style works for Skill Builder data.~~
 - Recreate the entire Skill Builder system.
 - Recreate every JJS skills for skill-building purposes.
-- The ability to import/export SB datas.
+- ~~The ability to import/export SB datas.~~
 - A way to preview your skills, while not needing to go in-game:
   - 3D viewport, containing an R6 player model.
   - The ability to change the environment of the viewport (adding dummies, changing location, etc).
