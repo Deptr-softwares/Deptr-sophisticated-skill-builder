@@ -25,6 +25,9 @@ This is a WIP, so I can only shows the planned features below:
 - The ability to group branches like tab folders for better organization.
 - The ability to create fully custom damage types.
 - The ability to preview a skill's flow when using it (which branches does it go to? what animations or vfx does it cancel?, etc).
+- The ability to generate detailed chances when making randomized branches
+- Allow you to click and add nodes inbetween, set checkpoint for nodes for quick travelsal within the skills.
+- Allow you to add "Filler nodes", this will only work on the site: Filler nodes are ignored when exporting the skills, their main purpose is to be a way so that you can add notes/comments/messages inbetween the nodes.
 - An autosaves and versions system for character datas.
 - Optimize and smoothen out how loading datas work for large skills work for better skill-builing experience.
 - A premature fix for Finisher branch (I hope tze fix this soon).
